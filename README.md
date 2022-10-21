@@ -5,3 +5,4 @@ Before working on code,  reading ADC's manual is recommended.
 12.5 MHz ADC clock is used. And ADC sampling rate is 500K sample per second.
 Also, in this code, 15626 samples are written onto Block Meory design so decimation process is implemented.
 
+Designed By Arda Anıl Dönmez
